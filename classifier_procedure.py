@@ -1,4 +1,4 @@
-# Proje4
+
 from sklearn.externals import joblib
 from sklearn import tree
 
