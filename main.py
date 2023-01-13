@@ -1,4 +1,4 @@
-^#Proje4
+
 import sys
 from os import listdir
 from img_procedure import *
